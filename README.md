@@ -1,5 +1,5 @@
 # fizzbuzz
-pythone
+python
 
 for x in range(0 , 100):
    x += 1
